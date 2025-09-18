@@ -1,6 +1,6 @@
 import random
 
-with open('/home/chud/Documents/bible.txt', 'r')as file:
+with open('/home/(YOU)/Documents/bible.txt', 'r')as file:
     quotes = file.readlines()
 
 def get_random_quote():
